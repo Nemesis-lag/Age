@@ -201,7 +201,7 @@ LevelButton.MouseButton1Click:Connect(function()
 
 	DropdownMenu.Visible = false
 	LoadingFrame.Visible = true
-	local duration = 15 -- 3 minutes
+	local duration = 180 -- 3 minutes
 	for i = 1, 100 do
 		Percentage.Text = i .. "%"
 		wait(duration / 100)
