@@ -73,7 +73,7 @@ local UIListLayout = Instance.new("UIListLayout", DropdownMenu)
 UIListLayout.Padding = UDim.new(0, 2)
 
 local PetList = {
-	"Raccoon", "Spinosaurus", "Disco Bee",
+	"Raccoon", "Kitsune", "Spinosaurus", "Disco Bee",
 	"T-Rex", "Butterfly", "Dragonfly", "Fennec Fox"
 }
 
